@@ -20,7 +20,7 @@
   (in case of user phablet)
 
   $cd Downloads<BR>
-  $wget https://github.com/cherojeong/ubuntu_packages/blob/master/ubuntu-keyboard-ko/ubuntu-keyboard-ko-ota11.tar.gz<BR>
+  $wget https://raw.githubusercontent.com/cherojeong/ubuntu_packages/master/ubuntu-keyboard-ko/ubuntu-keyboard-ko-ota11.tar.gz<BR>
   
   $tar zvxf ubuntu-keyboard-ko-ota11.tar.gz<BR>
   $cd ubuntu-keyboard-ko-ota11<BR>
